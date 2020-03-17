@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">TayMath</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey all, this is TayMath!\n\n
+
+	\t\t\tHere to go through math and test prep. Bios are important because they represent things about our character. They include our interests and hobbies as well as a history of relevant Information. Without them we would know much less about our fellow humans.\n
+	\t\t\tPersonally, I enjoy learning new things, practicing Brazillian Jiu Jitsu and other combat sports, playing games, and making new projects. I studied a long time in mathematics and have been learning a lot more about programming and how computers work.\n
+    \t\t\tAdding more information to properly fill the screen because we want to test this scroll view! Information includes SAT/ACT Prep, Kaggle Competitions, CS50 from harvard, Stanfords Machine Learning course, etc. Also tall, 6 foot 1, white, nerdy, very boring. Magic the gathering has a new RPG, need to look it over (probably not very good!)\n
+    \t\t\tHope this was interesting!</string>
+    <string name="what_is_your_nickname">What Is Your Nickname?</string>
+    <string name="done">Done!</string>
+</resources>
